@@ -1,0 +1,9 @@
+{
+    "__comment1__": "this is standard user",
+    "email": "standard_user",
+    "password": "secret_sauce",
+    "__comment2__": "this is locked out iser",
+    "email2": "locked_out_user",
+    "password2": "secret_sauce",
+    "invalidEmail": "random@gmail.com"
+}

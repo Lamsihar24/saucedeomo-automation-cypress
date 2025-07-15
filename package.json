@@ -1,0 +1,25 @@
+{
+  "name": "saucedeomo-automation-cypress",
+  "version": "1.0.0",
+  "description": "Automation testing website https://www.saucedemo.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lamsihar24/saucedeomo-automation-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lamsihar24/saucedeomo-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/Lamsihar24/saucedeomo-automation-cypress#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "cypress": "^14.5.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
