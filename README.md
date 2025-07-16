@@ -6,6 +6,12 @@ This project contains automated test cases for the [SauceDemo](https://www.sauce
 - Node.js >= 14
 - npm >= 6
 
+### Clone the repository
+```
+git clone https://github.com/Lamsihar24/saucedeomo-automation-cypress.git
+```
+
+
 ### How to install cypress
 ```
 npm init -y
