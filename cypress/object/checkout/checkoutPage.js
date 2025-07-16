@@ -7,6 +7,7 @@ export default {
 
     //Katalog
     productId: "[data-test=add-to-cart-sauce-labs-backpack]",
+    filter: "[data-test=product-sort-container]",
 
     //checkout
     btnCheckout: "[data-test=checkout]",
