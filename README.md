@@ -4,6 +4,7 @@ Automation testing website https://www.saucedemo.com/
 
 # How to install cypress
 ```
+npm init -y
 npm install cypress --save-dev
 ```
 
