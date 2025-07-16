@@ -2,21 +2,21 @@
 
 This project contains automated test cases for the [SauceDemo](https://www.saucedemo.com) website using Cypress.
 
-# Requirements
+### Requirements
 - Node.js >= 14
 - npm >= 6
 
-# How to install cypress
+### How to install cypress
 ```
 npm init -y
 npm install cypress --save-dev
 ```
 
-# How to run
+### How to run
 ``` 
 npx cypress open
 npx cypress run
 ```
 
-# Author
+### Author
 Lam – [GitHub Profile](https://github.com/Lamsihar24/)
